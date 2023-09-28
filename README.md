@@ -29,5 +29,4 @@
   ![MySQL](https://shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 
 ### Contact Me
-  <a href="www.linkedin.com/in/valentinalbornoz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Valentin%20Albornoz-blue?style=flat-square&logo=linkedin"></a>
-  <a href="valeg486@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Valeg486@gmail.com-blue?style=flat-square&logo=gmail"></a> 
+  <a href="https://www.linkedin.com/in/valentinalbornoz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Valentin%20Albornoz-blue?style=flat-square&logo=linkedin"></a>
