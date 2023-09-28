@@ -30,7 +30,4 @@
 
 ### Contact Me
   <a href="www.linkedin.com/in/valentinalbornoz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Valentin%20Albornoz-blue?style=flat-square&logo=linkedin"></a>
-  <a href="valeg486@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Valeg486@gmail.com-blue?style=flat-square&logo=gmail"></a>  
-
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinalbornozz&label=Profile%20views&color=0e75b6&style=flat" alt="valentinalbornozz" /> </p>
+  <a href="valeg486@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Valeg486@gmail.com-blue?style=flat-square&logo=gmail"></a> 
