@@ -31,7 +31,8 @@
 
 ### Contact Me
   <a href="https://www.linkedin.com/in/valentinalbornoz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Valentin%20Albornoz-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:valeg486@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-valeg486%40gmail.com-red?style=flat-square&logo=Gmail"></a>
+  <a href="mailto:valeg486@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-valeg486%40gmail.com-red?style=flat-square&logo=Gmail"></a>
+
 
 
 
