@@ -3,7 +3,7 @@
 
 
 ### About Me
-- I am 25 years old and I am from Mendoza, Argentina.
+- I am 26 years old and I am from Mendoza, Argentina.
 - I am a MERN and PERN full stack developer.
 - I enjoy working with the backend because I want to create and optimize the logic behind applications, boosting their performance and functionality.
 - I am a creative person who seeks to learn and improve every day.
